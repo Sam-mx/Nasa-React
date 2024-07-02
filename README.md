@@ -1,8 +1,27 @@
-# React + Vite
+<div align="center">
+<br />
+<a href="#" target="_blank">
+<img src="./src/assets/readme/readme1.png" alt="Project Banner">
+<img src="./src/assets/readme/readme2.png" alt="Project Banner">
+</a>
+<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <div>
+    <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logoColor=white&logo=javascript&color=3178C6" alt="javascript" />
+  </div>
 
-Currently, two official plugins are available:
+  <h3 align="center">NASA App</h3>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🤖 Introduction
+
+Creating a REACT.js Application using NASA API.
+
+## ⚙️ Tech Stack
+
+- React.js
+- Vite
+
+## 🔋 API
+
+👉 https://api.nasa.gov/
